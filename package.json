@@ -2,7 +2,7 @@
   "name": "crud",
   "version": "1.0.0",
   "description": "crud app with express and mongodb",
-  "main": "index.ejs",
+  "main": "index.js",
   "engines": {
     "node": "14.x"
   },
